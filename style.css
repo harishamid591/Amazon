@@ -244,6 +244,7 @@ section{
     height: 138px;
     margin-left: 5px;
     margin-bottom: 5px;
+    cursor: pointer;
 }
 .inner-box1 img{
     width: 100%;
@@ -273,6 +274,7 @@ section{
 }
 .inside-row-box{
     display: flex;
+    cursor: pointer;
 }
 .inside-row-box img{
     width: 20%;
@@ -318,6 +320,7 @@ section{
     justify-content: center;
     background: #232f3e;
     height: 50px;
+    cursor: pointer;
 }
 
 .inner-top-box2 a{
@@ -375,6 +378,7 @@ section{
     display: flex;
     justify-content: space-evenly;
     width: 350px;
+  
 }
 .foot-button button{
     display: flex;
@@ -383,6 +387,7 @@ section{
     color:#fff;
     border: 1px solid #626262;
     padding: 5px 10px;
+    cursor: pointer;
 }	
 
 
