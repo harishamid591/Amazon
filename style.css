@@ -3,7 +3,10 @@
     padding: 0;
    
 }
-
+nav{
+    height: 60px;
+    background: red;
+}
 .navbar{
     display: flex;
     justify-content: space-evenly;
@@ -13,6 +16,8 @@
     font-size: 15px;
     background:#131921;
     color: #fff;
+    position: fixed;
+    top: 0;
 }
 .border-nav:hover{
     border: 1px solid #fff;
